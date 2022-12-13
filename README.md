@@ -15,5 +15,5 @@ This app saves all the important things you need to remember in local storage.
 
 ## Link
 
-Github: https://zg4219.github.io/Note-Taker/
+Github: https://github.com/ZG4219/Note-Taker
 

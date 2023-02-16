@@ -33,8 +33,8 @@ To edit a note, click the pencil icon. To delete a note, click the trash can ico
 
 ## Link
 
-Github: https://github.com/ZG4219/Note-Taker
-https://note-taker-express-1.herokuapp.com/
+- Github: https://github.com/ZG4219/Note-Taker
+- Heroku: https://note-taker-express-1.herokuapp.com/
 
 ## License
 This application is licensed under the MIT License. See the LICENSE file for more information.
